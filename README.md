@@ -26,6 +26,7 @@ YOLOv2 (YOLO9000): Improved speed and accuracy.
 YOLOv3: Multi-scale predictions, Darknet-53.
 YOLOv4: Faster, CSPDarknet53, Mish activation.
 YOLOv5: Latest with more optimizations.
+
 [>>>>Applications of YOLO<<<<] 🌐
 
 
