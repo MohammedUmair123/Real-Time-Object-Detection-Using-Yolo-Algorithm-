@@ -11,11 +11,15 @@ Real-Time Detection ⏱️: Suitable for applications like autonomous driving an
 High Accuracy 🎯: Maintains precision while being fast.
 Single Pass Detection 👁️: Predicts bounding boxes and probabilities in one go.
 End-to-End Training 🎓: Optimizes the entire system for detection performance.
+
+
 [>>>>How YOLO Works<<<<] ⚙️
 Image Division 🖼️: Divides the input image into an S×S grid.
 Bounding Boxes 📏: Predicts bounding boxes, confidence scores, and class probabilities.
 Confidence Score 📈: Reflects object presence and box accuracy.
 Non-Max Suppression 🚫: Ensures each object is detected once to reduce redundancy.
+
+
 [>>>>YOLO Variants<<<<] 🧬
 YOLOv1: Original version.
 YOLOv2 (YOLO9000): Improved speed and accuracy.
@@ -23,6 +27,8 @@ YOLOv3: Multi-scale predictions, Darknet-53.
 YOLOv4: Faster, CSPDarknet53, Mish activation.
 YOLOv5: Latest with more optimizations.
 [>>>>Applications of YOLO<<<<] 🌐
+
+
 Autonomous Vehicles 🚗: Detects pedestrians, vehicles, obstacles.
 Surveillance Systems 🕵️‍♂️: Monitors suspicious activities.
 Medical Imaging 🏥: Detects anomalies in scans.
