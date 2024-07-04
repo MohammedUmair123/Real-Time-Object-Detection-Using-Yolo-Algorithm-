@@ -1,1 +1,1 @@
-
+Download Yolov4 weights(Yolov4.weights) and Yolov4 configure file(Yolov4.cfg) from the official website
